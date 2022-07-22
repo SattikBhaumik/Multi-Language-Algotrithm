@@ -1,5 +1,3 @@
-// NOTE :need to check binary search for 2D ARRAYS  
-
 import java.util.*;
 public class Binary_Search
 {
